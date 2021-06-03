@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomas Saffold, an approved and licensed physician, and student in astrology, still lives at the Black-Ball and old Lilly's Head, next door to the feather-shops that are within Black-Fryars Gate-way, which is over against Ludgate-Church, just by Ludgate, in London, who resolves these questions following, viz. Whether any ones life may be happy or unhappy ...</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29241</idno><idno type="EEBO-CITATION">99888732</idno>
+  <idno type="VID">195939</idno>
+  <idno type="EEBO-PROQUEST">2269048721</idno>
+  
+            <idno type="STC">Wing S282J</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[134]</idno>
+            <idno type="PROQUEST">ocm99888732</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888732e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195939)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[135])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thomas Saffold, an approved and licensed physician, and student in astrology, still lives at the Black-Ball and old Lilly's Head, next door to the feather-shops that are within Black-Fryars Gate-way, which is over against Ludgate-Church, just by Ludgate, in London, who resolves these questions following, viz. Whether any ones life may be happy or unhappy ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1674 and 1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>At end of text: "Licensed by authority, according to Law."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Saffold, Thomas, 1640-1691.</term>
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Predictive astrology --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195939:1"/>
+            <head>
+               <hi>Thomas Saffold,</hi> an Approved and Licensed Physician, and Student in Astrology, still lives at the <hi>Black-Ball</hi> and <hi>Lilly</hi>'s <hi>Head,</hi> next door to the <hi>Feather-shops</hi> that are within <hi>Black-Fryers</hi> Gate-way, which is over against <hi>Ludgate-Church,</hi> just by <hi>Ludgate,</hi> in <hi>London,</hi> who Resolves these Questions following, <hi>viz.</hi>
+            </head>
+            <p>WHether any ones Life may be happy or unhappy. A person absent, if alive or dead, or when return. In what part of the World, City, or Country, is best to dwell in, or for any one to direct their Affairs to, thereby to live the more happily. Or if one shall be rich or poor, and if rich when, and by what means obtain it. Or if good to go the Journey intended, and when best to set out. Or the best-time to undertake any thing you would have prosper. Or if any Reports concerning Husbands, Wives, Friends, Ships at Sea, or other things, be true or false, or in what sense best to take them. Or if good to buy or hire the House or Land desired. Or if a Woman be with Child or no, and if with Child, whether it be Male or Female. Or if profit by Servants. He doth very seldom or never fail to give to any person diseased, a true account of the nature of any Disease afflicting, and part afflicted, and if curable or not, and if not curable, he will not take them in hand. Or if marry the person desired, if not the person desired, what like person, and the time when. Or if the Sweet-hearts or Wives portion be great or small, or if with ease or difficulty it may be obtained. Of Mony owing, if recoverable. Of Law-Suits who shall overcome. Or if good to go the Voyage intended. Or if one may obtain the Preferment desired, and when. Or whether a Friend be real. Of Enemies either secret or publick, who they are, and whether they shall have power to hurt. Or if one shall fall into the danger feared, or how best to escape it. <hi>These and all other Lawful Questions he Resolveth according to the Rules of Astrology, and</hi> 23 <hi>Years experience. Lastly,</hi> He Calculateth Nativities, and Teacheth the whole Art of <hi>Astrology.</hi>
+            </p>
+            <div type="part">
+               <head>The Sick may have Advice for Nothing,</head>
+               <p>And of him good Medicines cheap, with directions how to use them, by which, and God's assistance, he is able to care any Disease, either inward, or outward, of what name or nature soever, if curable. He hath most incomparable Pills to cure the <hi>Scurvy,</hi> the best, or at least as good as any in being, which he will sell, with directions how to use them, at 1 <hi>s.</hi> 6 <hi>d.</hi> the half Box, and 3 <hi>s.</hi> the whole Box, containing 36 Pills. They may indifferent well be taken in any weather, but best in temperate weather, without hindrance of Business: And they will keep good some years, whereby they may be beneficial to such as live in the Country, or to Seamen that travel to Foreign Parts. They do not only cure the <hi>Scurvy,</hi> by opening obstructions of the Spleen, and purging melancholy humors from the Blood in every vein, but they purge Choler and Fleghm too, opens obstructions of the Liver, sweetens the Blood, and gives it its due Circulation. They cleanse the Breast, Stomach and Head of most Diseases that can afflict them. They open obstructions of the Womb in Women, and help them to the benefit of Nature, or monthly Purgations. They cleanse the Reins, and are as good a Purge in the <hi>Running of the Reins,</hi> or <hi>French-Pox,</hi> as any can be used, of which distem<g ref="char:EOLhyphen"/>per he hath cured many with Privacy, without hindring of Business, in a little time, and for a small charge, when they have been spoiled, and almost undone by others, without Fluxing, or using of Mercury. With a pleasant Liquor for the same, at half a Crown the Bottle, which cureth all heat of Urine and pain in making water. Also the <hi>Scurvy, Dropsie, Ague, Stone</hi> and <hi>Gout,</hi> if curable, as well as the Disease in Fashion. His Pills cures as many Distempers as any Purging Medicine can; and whosoever hath used them yet, have praised them, and I hope will do.</p>
+               <p>
+                  <hi>Saffold</hi>'s <hi>Cordial Elixir</hi> is a great Easer and Curer of all kind of pains in any part of the Body, from head to foot. It helps to give the Blood its due Ci<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>culation, and is excellent against the <hi>Scurvy,</hi> and may be safely taken at any time, or in any weather, but best two hours before Breakfast, Dinner, and Supper, and oftner if need requires, 1, 3, or 5 spoonfuls at a time, which you find doth best agree with your Age and Constitution. To cure any sort of Ague, take this or his <hi>Ague-Pill</hi> an hour before the Fit cometh, and sweat upon it, nothing more safe to cause a good stomach, and brisk lively Complexion. It's good to cure Women of all such Distempers as are not seemly to name in this Bill; it's prevalent in curing the <hi>Running of the Reins,</hi> and <hi>French Pox,</hi> which Distemper none cures sooner, few so well as him. In short, there is no <hi>Cordial</hi> nor <hi>Elixir</hi> made more uni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ersally good to cure (with God's help) any Disease in any nature (if curable) than his, which hinders no Business, and holds its full Vertue for many years. Try before you Judge; Speak as you Find. He is to be spoken with from 8 in the Morning, till 10 at Night. A private Lodging may be had if desired. Beware you do not mistake his House, as some have done, another living near him, pretending to the same. His <hi>Cordial Elixir</hi> is Half a Crown the Half-pint Bottle, with directions in Print how to take it, or his best <hi>Pills</hi> and <hi>Diet-Drink.</hi>
+                  <q>
+                     <l>He knows some who are Knaves in Grain,</l>
+                     <l>And have more Gall and Spleen than Brain,</l>
+                     <l>Will ill reward his Skill and Pain.</l>
+                  </q>
+               </p>
+               <p>And notwithstanding he ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h practised Astrology above 23 years, and hath had the Bishop of <hi>London</hi>'s Licence to practise Physick, ever since the 4th. day of <hi>September</hi> 1674. and hath, he thanks God for it, great Experience and wonderful Success in both those Arts, giving to doubtful People great satisfaction, and, by God's Blessing, cureth the Sick of any Age or Sex of any Distemper, though given over by others, and never so bad, (if curable;) therefore let none despair of a Cure, but try him.</p>
+               <p>Yet some co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceited Fools will ask how he came to be able to do such great Cures, and to soretel such stra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge things, and to know how to make such rare and powerful Medicines as his best <hi>Pills, Elixir</hi> and <hi>Diet-Drinks</hi> are, and where<g ref="char:EOLhyphen"/>fore he doth publish the same in Print. Bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he will answer such dark Animals thus:
+<q>
+                     <l>It hath so pleased God the King of Heaven,</l>
+                     <l>Being He to him hath Knowledge given,</l>
+                     <l>And in him there Can be no greater Sin,</l>
+                     <l>Than to hide his Talent in a Napkin.</l>
+                     <l>His Candle is Light, and He will not under</l>
+                     <l>A Bushel put it, Let the World wonder:</l>
+                     <l>Though he be traduced by such like Tools,</l>
+                     <l>As have Knaves Hearts lack Brains are Fools.</l>
+                  </q>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licensed by Authority, according to Law.</p>
+            <pb facs="tcp:195939:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
